@@ -1,2 +1,0 @@
-Php;some text
-Web;some text
