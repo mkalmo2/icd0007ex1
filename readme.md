@@ -84,7 +84,7 @@ Tulemuse näide: `"[2021 => 12.67, ... 2023 => 4.63]"`.
 Ülesannete esitamiseks tehke esmalt projekti 1. osa, mille kirjelduse leiate Moodle'ist. Seejärel kopeerige kogu kood oma projekti kataloogi `ex1`. Ärge kopeerige `.git` ja `.idea` katalooge.
 
 Enne esitamist on soovitatav automaattestid enda arvutis käivitada, et vigade parandamine oleks mugavam.
-Testid leiate aadressilt [https://bitbucket.org/mkalmo/icd0007tests](https://bitbucket.org/mkalmo/icd0007tests). Kloonige see projekt oma arvutisse. See on eraldi projekt ja ei lähe teie reposse. Soovi korral võite selle repo enda konto alla importida.
+Testid leiate aadressilt [https://github.com/mkalmo2/icd0007tests](https://bitbucket.org/mkalmo/icd0007tests). Kloonige see projekt oma arvutisse. See on eraldi projekt ja ei lähe teie reposse. Soovi korral võite selle repo enda konto alla importida.
 
 Selle harjutustunni testid on failis `ex1.php`. Testide käivitamiseks pange selles failis olev kood käima. Et testid teie koodi üles leiaksid, määrake failis `ex1.php` konstandi `PROJECT_DIRECTORY` väärtuseks teie projekti asukoht arvutis.
 
